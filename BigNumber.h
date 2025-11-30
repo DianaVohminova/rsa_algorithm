@@ -13,7 +13,7 @@
 #include <time.h>
 
 
-#define KEY_BITS   1024        // ДЛИНА КЛЮЧА. ДЛЯ 65 536 БИТ ПОСТАВЬТЕ 65536
+#define KEY_BITS   1024       // длина ключа
 #define LIMB_BITS  32
 
 // bigint может хранить числа до примерно 2*KEY_BITS бит
